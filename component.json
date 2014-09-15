@@ -1,0 +1,10 @@
+{
+  "name": "chart",
+  "repo": "bdo-labs/directive-chart",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "component/chart": "master",
+    "component/autoscale-canvas": "master"
+  }
+}
